@@ -43,7 +43,7 @@ const About = () => {
         </h3>
         <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p className="">
-          I've worked with a few amazing companies, levelling up my skills and teaming up with smart people. Here's the run-down:
+          I've worked with a few amazing companies, levelling up my skills and teaming up with smart people. Here's the run-down :
         </p>
       </div>
             <div className="mt-12 flex">

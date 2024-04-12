@@ -19,7 +19,7 @@ const renderContent = {
         <span className='font-semibold mx-2 text-white'>Pranshu Basak</span>
         👋
         <br />
-        A Software Developer from India
+        A Software Developer from India.
       </h1>
     ),
     2:(
