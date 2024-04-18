@@ -57,7 +57,7 @@ const Projects = () => {
             <div className="block-container w-300 h-200 pt-4">
 
               <img src={project.image} alt="Project Image" 
-              className={`object-fit btn-bc rounded-xl shadow-2xl hover:shadow-3xl shadow-${project.color}`}/>
+              className={`object-fit btn-bc rounded-xl shadow-2xl hover:shadow-3xl `}/>
 
             </div>
           </div>
