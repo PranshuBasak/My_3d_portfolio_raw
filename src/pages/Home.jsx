@@ -6,8 +6,8 @@ import sakura from '../assets/sakura.mp3';
 import { soundoff, soundon } from '../assets/icons';
 
 // Lazy load the models
-const Island = React.lazy(() => import('../models/island'));
-const Sky = React.lazy(() => import('../models/sky'));
+const Island = React.lazy(() => import('../models/Island'));
+const Sky = React.lazy(() => import('../models/Sky'));
 const Bird = React.lazy(() => import('../models/Bird'));
 const Plane = React.lazy(() => import('../models/Plane'));
 
