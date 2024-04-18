@@ -28,6 +28,7 @@ import soundon from './soundon.png'
 import soundoff from './soundoff.png'
 import codedamn from './codedamn.png'
 import promptnest from './promptnest.svg'
+import editmagicicon from './editmagicicon.png'
 
 export {
     css,
@@ -59,5 +60,6 @@ export {
     soundon,
     soundoff,
     codedamn,
-    promptnest
+    promptnest,
+    editmagicicon
 }

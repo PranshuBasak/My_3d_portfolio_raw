@@ -9,6 +9,7 @@ import ybi from './ybi.png'
 import animeImage from './animeImage.png'
 import promptnestImg from './promptnestimg.png'
 import flavourful from './flavourful.png'
+import editmagicai from './editmagicai.png'
 
 export {
     hero,
@@ -22,4 +23,5 @@ export {
     animeImage,
     promptnestImg,
     flavourful,
+    editmagicai,
 }
